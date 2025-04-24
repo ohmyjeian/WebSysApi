@@ -1,0 +1,17 @@
+{
+"id": 1,
+"name": "Gwen Apuli",
+"email": "apuli@grc.com",
+"phone": "0912 345 6789",
+"address": {
+    "street": "Bloom St",
+    "city": "Biniverse",
+    "state": "BINI",
+    "zip": "0800"
+},
+"company": {
+    "name": "Star Magic",
+    "position": "Artist",
+    "department": "Talents"
+}
+}
